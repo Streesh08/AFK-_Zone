@@ -1,0 +1,10 @@
+name: AFK_ZONE
+version: 1.0.0
+author: "Streesh"
+main: streesh\afkzone\AFKZone
+api: 5.0.0
+description: "AFK zone creation plugin"
+
+permissions:
+  afkzone.admin: 
+    default: op
